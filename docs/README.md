@@ -16,7 +16,7 @@ So I decided to build my own version — one that feels more **human, unbiased, 
 
 ---
 
-## 🛠 Techn I'll be using  
+## 🛠 Tech I'll be using  
 - **Frontend:** React + Tailwind CSS (for a modern, simple UI)  
 - **Backend:** Node.js + Express (to power the app’s engine)  
 - **Database:** PostgreSQL (via Supabase, free & open source)  
@@ -33,6 +33,7 @@ So I decided to build my own version — one that feels more **human, unbiased, 
 ---
 
 ✨ This is more than just a project — it’s me learning, experimenting, and building something I’d personally use every day.  
+
 
 
 
